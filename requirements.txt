@@ -1,5 +1,0 @@
-Libraries used:
-Pandas
-os
-numpy
-matplotlib.pyplot
